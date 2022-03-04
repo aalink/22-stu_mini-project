@@ -26,6 +26,10 @@ nav, ul, li {
   font-size: larger;
 }
 
+li {
+  padding: 15px;
+}
+
 /* nav, button{
   margin: 5px;
   font-size: xx-large;
